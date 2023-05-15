@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Sammy Barasa
 
 <!--
 **Sammy-Barasa/Sammy-Barasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Sammy Barasa, a software developer, machine learning engineer, and hardware/firmware engineer with a background in Electronic and Computer Engineering, I bring a diverse set of skills and experience to every project I work on. My expertise covers API development, embedded development, web application building, and machine learning and deep learning. With a passion for project management and leadership, I am well-equipped to work on projects from start to finish, from design to implementation to deployment. Check out my Github repositories to see some of the projects I have worked on and feel free to reach out if you'd like to collaborate or discuss potential opportunities.
+a software developer, machine learning engineer, and hardware/firmware engineer with a background in Electronic and Computer Engineering, I bring a diverse set of skills and experience to every project I work on. My expertise covers API development, embedded development, web application building, and machine learning and deep learning. With a passion for project management and leadership, I am well-equipped to work on projects from start to finish, from design to implementation to deployment. Check out my Github repositories to see some of the projects I have worked on and feel free to reach out if you'd like to collaborate or discuss potential opportunities.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammy-Barasa&show_icons=true&theme=dracula)
